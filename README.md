@@ -1,6 +1,3 @@
-Here's the updated `README.md` with your package name included:
-
-```markdown
 # lati_css
 
 ## Overview
@@ -24,11 +21,7 @@ The package includes media queries for the following breakpoints:
 
 ## Installation
 
-To use `lati_css`, include the CSS file in your HTML head section:
-
-```html
-<link rel="stylesheet" href="path/to/lati_css/styles.css">
-```
+To use `lati_css`, download from npm by `npm install lati_css`
 
 ## Usage
 
