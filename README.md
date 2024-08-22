@@ -51,5 +51,3 @@ This project is licensed under the [GPL-v3.0](LICENSE).
 
 For any questions or feedback, please contact [Lati Tibabu] at [latitibabu2018@gmail.com].
 ```
-
-Feel free to customize the contact information and any other details as needed.
