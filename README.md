@@ -39,7 +39,7 @@ Contributions are welcome! If you have suggestions or improvements, please submi
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL-v3.0](LICENSE).
 
 ## Future Improvements
 
