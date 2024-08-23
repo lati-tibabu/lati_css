@@ -1,24 +1,24 @@
 {
-  "name": "lati_css",
-  "version": "1.0.0",
-  "description": "Lati styling library",
-  "main": "index.js",
-  "scripts": {
-    "test": "runStyle"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lati-tibabu/lati_css.git"
-  },
-  "keywords": [
-    "css",
-    "stylesheet",
-    "styling"
-  ],
-  "author": "Lati Tibabu",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/lati-tibabu/lati_css/issues"
-  },
-  "homepage": "https://github.com/lati-tibabu/lati_css#readme"
+    "name": "lati_css",
+    "version": "1.0.1",
+    "description": "Lati styling library",
+    "main": "index.js",
+    "scripts": {
+        "test": "runStyle"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lati-tibabu/lati_css.git"
+    },
+    "keywords": [
+        "css",
+        "stylesheet",
+        "styling"
+    ],
+    "author": "Lati Tibabu",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/lati-tibabu/lati_css/issues"
+    },
+    "homepage": "https://github.com/lati-tibabu/lati_css#readme"
 }
