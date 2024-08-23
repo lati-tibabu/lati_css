@@ -1,6 +1,6 @@
 {
     "name": "lati_css",
-    "version": "1.0.1",
+    "version": "1.0.1b",
     "description": "Lati styling library",
     "main": "index.js",
     "scripts": {
